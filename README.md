@@ -53,7 +53,7 @@ A self-driving car simulation environment using reinforcement learning, built wi
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/deep-traffic-simulation.git
+   git clone https://github.com/nisargbhatt09/rl-self-driving-car/
 2. Install dependencies:
    pip install -r requirements.txt
 
